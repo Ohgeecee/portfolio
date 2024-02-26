@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jon Currie
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jon Currie
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jon 
+last_name: Currie
 
 # Status emoji
 status:
@@ -17,34 +17,46 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Contractor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Service Montana
+    url: https://www.servicemontana.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Unveiling the journey: From Montana's landscapes to crafting dreams - the story of a contractor shaping Northwest Montana, one project at a time."
+
+
+
+
+
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Outdoor adventures (hiking, camping, fishing)
+- Woodworking and carpentry
+- Sustainable living and eco-friendly practices
+- Exploring local cuisine and breweries
+- Wildlife photography and nature conservation
+- DIY home improvement projects
+- Skiing and snowboarding in the Rockies
+- Community involvement and volunteering
+- Gardening and landscaping
+- Exploring historical sites and landmarks in Northwest Montana.
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: General Studies
+      institution: MSU: Northern
+      year: 2014
+    - course: Junior- Senior: High School
+      institution: Havre High School
+      year: 2010
+    - course: Freshman Year: High School
+      institution: Capital High School
+      year: 2006
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,7 +108,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ohgeecee
     label: Follow me on Twitter
     display:
       header: true
