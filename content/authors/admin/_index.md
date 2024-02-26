@@ -51,10 +51,10 @@ education:
     - course: General Studies
       institution: MSU: Northern
       year: 2014
-    - course: Junior- Senior: High School
+    - course: High School
       institution: Havre High School
       year: 2010
-    - course: Freshman Year: High School
+    - course: High School
       institution: Capital High School
       year: 2006
 
